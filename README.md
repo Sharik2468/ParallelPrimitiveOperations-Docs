@@ -53,7 +53,6 @@ Manual scenario: [Parallel Sync manual test](Docs/ParallelSync_ManualTest.md) (b
 - I need cancellation and sync primitives: [10 Cancel Token](Docs/10-Cancel-Token.md) -> [11 Sync primitives](Docs/11-Sync-Primitives.md).
 - I need C++ usage details: [04 Architecture](Docs/04-Architecture.md) -> [16 C++ integration](Docs/16-Cpp-Integration.md).
 - I need to debug a bad graph or warning: [15 Editor tools](Docs/15-Editor-Tools.md) -> [18 Troubleshooting & FAQ](Docs/18-Troubleshooting-FAQ.md).
-- I need to verify behavior manually: [Parallel Sync manual test](Docs/ParallelSync_ManualTest.md) -> [17 Testing](Docs/17-Testing.md).
 
 ---
 
